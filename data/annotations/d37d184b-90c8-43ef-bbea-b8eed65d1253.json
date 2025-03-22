@@ -1,5 +1,310 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint sount of light footsteps in the background; sense that Lepore is walking somewhere"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "413ef135-1d9c-4a27-975a-51b6a6170247"
+    },
+    {
+      "start_time": 123,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footsteps are not only faint, but are creaking"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "43de63df-acfb-4012-bca5-dacae35dc2c4"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of a door opening as Lepore introduces 'the last archive'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "71688056-5bc2-4640-899d-ee08d4f56935"
+    },
+    {
+      "start_time": 388,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very faint sound of thunder in background?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a43a16c7-9e64-4c9f-b78e-1eedf4cb98ec"
+    },
+    {
+      "start_time": 409,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of camera flashbulb going off"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "51b971a0-27b4-4459-a9a0-689e4c64010c"
+    },
+    {
+      "start_time": 630,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clacking typewriter keys"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d429e98-ea72-4200-9124-2c1d6289d01e"
+    },
+    {
+      "start_time": 646,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic ticking sound - very likely the ticking of a clock"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "249ba43e-c0fc-4da2-b4d2-0705a747c876"
+    },
+    {
+      "start_time": 679,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hooves clopping"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70b86d97-c27f-4a04-b11e-9c952942bb62"
+    },
+    {
+      "start_time": 925,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phone ringing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e51545a4-3689-44a3-84cf-08ab058030be"
+    },
+    {
+      "start_time": 982,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of a train chugging"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f0f0d58-581a-4dcb-b4a2-bb7ab364f208"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of footsteps in hotel room"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3661e2d8-fe2b-4db3-b88a-386d55adc92d"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of shuffling paper"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e62a85a5-afd4-4fdd-be46-2bc694fc42d9"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continued use of creaking foostep sounds"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "38d25225-3fc8-4453-8908-10ab779f6077"
+    },
+    {
+      "start_time": 1580,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very faint sounds of a crowded room?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa46c7ef-2984-4044-b7d9-685d77f45756"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of typewriters clacking and a gavel hitting"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "14265b1a-7ab9-42ad-a2e9-4e3ecd6d44a6"
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gavel banging and sounds of murmured surprise from crowd"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61605e4c-ce07-46c1-92bd-29780f6818e8"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clacking typewriter"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d9a77e5-ed59-42df-bf4b-04eb9eba2351"
+    },
+    {
+      "start_time": 1918,
+      "end_time": 1918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background sounds of driving to the Vermont State Archives"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f627e4e2-1f2d-4f50-90e6-4181963ab60b"
+    },
+    {
+      "start_time": 1975,
+      "end_time": 1975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking doors and shuffling - but unlike other sound effects, these are left-in background noises from Lepore's actual visit to the state archives"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65f50564-f1d7-4d88-9963-dde8ccfb20ef"
+    }
+  ],
   "set": "Default",
   "event_id": "eadc7fb0-22ab-4fca-aae1-2da390c31646",
   "source_id": "4e84eb15-46db-40ba-a93d-6a28f1b77291"
