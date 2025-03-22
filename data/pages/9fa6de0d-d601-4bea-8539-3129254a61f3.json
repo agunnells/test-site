@@ -1,0 +1,12 @@
+{
+  "content": [],
+  "created_at": "2025-03-22T22:47:11.563Z",
+  "created_by": "agunnells",
+  "title": "Test Site",
+  "updated_at": "agunnells",
+  "updated_by": "2025-03-22T22:47:11.563Z",
+  "autogenerate": {
+    "enabled": true,
+    "type": "home"
+  }
+}
