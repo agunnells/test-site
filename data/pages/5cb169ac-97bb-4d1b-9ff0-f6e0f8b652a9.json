@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-22T23:23:35.109Z",
+  "created_by": "agunnells",
+  "title": "Test #2",
+  "slug": "test-2",
+  "updated_at": "2025-03-22T23:23:35.109Z",
+  "updated_by": "agunnells",
+  "parent": "9fa6de0d-d601-4bea-8539-3129254a61f3",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "eadc7fb0-22ab-4fca-aae1-2da390c31646"
+  }
+}
