@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-22T22:57:22.750Z",
+  "created_by": "agunnells",
+  "title": "Clue of the Blue Bottle",
+  "slug": "clue-of-the-blue-bottle",
+  "updated_at": "2025-03-22T22:57:22.750Z",
+  "updated_by": "agunnells",
+  "parent": "9fa6de0d-d601-4bea-8539-3129254a61f3",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "57fc70d2-7ac9-4bd1-898f-59c87b0c6376"
+  }
+}
